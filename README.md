@@ -118,6 +118,7 @@
 |------|-----------|----------|
 | [Perplexity AI](https://perplexity.ai) | Unlimited | Web-connected AI answers |
 | [Elicit](https://elicit.com) | Basic free | Literature review |
+| [IdeaHunter](https://ideahunter.today) | Free idea research | Demand-backed app and micro-SaaS research |
 | [Consensus](https://consensus.app) | Limited free | Scientific research |
 | [Semantic Scholar](https://semanticscholar.org) | Free | Academic paper AI search |
 | [Phind](https://phind.com) | Unlimited | Developer search |
