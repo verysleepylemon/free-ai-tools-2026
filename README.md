@@ -106,6 +106,7 @@
 |------|-----------|----------|
 | [Notion AI](https://notion.so) | Limited free | Documents, summaries |
 | [Grammarly](https://grammarly.com) | Free basic | Grammar, tone, clarity |
+| [ResumeAI](https://withresumeai.com/) | 3/day anon, 10/day free | ATS checker + AI resume builder |
 | [QuillBot](https://quillbot.com) | 125 words/pass | Paraphrasing |
 | [Copy.ai](https://copy.ai) | 2000 words/month | Marketing copy |
 | [DeepL](https://deepl.com) | 500k chars/month | Best AI translation |
