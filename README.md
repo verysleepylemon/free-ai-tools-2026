@@ -109,6 +109,7 @@
 | [QuillBot](https://quillbot.com) | 125 words/pass | Paraphrasing |
 | [Copy.ai](https://copy.ai) | 2000 words/month | Marketing copy |
 | [DeepL](https://deepl.com) | 500k chars/month | Best AI translation |
+| [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) | 매일 출석 체크로 무료 크레딧 제공; 사용량 제한 및 유료 옵션 있음 | Ficory LLC의 기업급 만화 리더 겸 번역기는 100개 이상의 언어와 서비스에서 제공하는 모든 번역 언어를 지원합니다. 개인 사용자는 만화 페이지를 일괄 번역하고 작품별 맞춤 번역을 설정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 이미지와 번역문을 편집합니다. 개발자와 개인 사용자는 API를 개인 작업 흐름에 연결하여 번역 과정을 통합합니다. |
 
 ---
 
